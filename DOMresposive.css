@@ -18,7 +18,7 @@ aside{
     grid-area: aside;
 }
 .list-film{
-    border: 5px solid black;
+    border: 5px solid black ;
     grid-area: list-film;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
